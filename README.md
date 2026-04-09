@@ -43,3 +43,19 @@ This helps lenders proactively manage risk and provide targeted student support.
 ---
 
 ## 📁 Project Structure
+placement-risk-ai/
+│
+├── data/
+│ └── placement_dataset.csv
+│
+├── models/
+│ ├── model_3m.pkl
+│ ├── model_6m.pkl
+│ ├── model_12m.pkl
+│ └── salary_model.pkl
+│
+├── train.py
+├── predict.py
+├── utils.py
+├── app.py
+├── requirements.txt
