@@ -5,7 +5,8 @@ An AI-driven system that predicts student placement outcomes, estimates salary, 
 🔗 **Live Project Repo:**  
 https://github.com/RudrakshKavishwar/placement-risk-ai
 
-🔗 **App Link**
+🔗 **App Link:**
+
 https://rudrakshkavishwar-placement-risk-ai-app-fmex4b.streamlit.app/
 ---
 
